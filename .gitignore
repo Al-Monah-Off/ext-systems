@@ -1,5 +1,8 @@
 target
 out
 .idea/
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> main
 *.iml
